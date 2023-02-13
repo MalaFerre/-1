@@ -15,7 +15,6 @@ else
     System.Console.WriteLine("Некорректно введено число!");
 }
 
-
 // int Prompt(string message)
 // {
 //     System.Console.WriteLine(message);
