@@ -8,4 +8,12 @@ int number = Convert.ToInt32(Console.ReadLine());
 int number1 = number / 10;
 int number2 = number % 100;
 int number3 = number2 / 10;
-System.Console.WriteLine(number3);
+ if (number<1000)
+{
+    System.Console.WriteLine (number3);
+}
+ else 
+ {
+    System.Console.WriteLine( "Неверено введено число");
+ }
+        
