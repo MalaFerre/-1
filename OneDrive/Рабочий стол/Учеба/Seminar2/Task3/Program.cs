@@ -6,11 +6,12 @@ System.Console.WriteLine("Введите первое число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите второе число: ");
 int number2 = Convert.ToInt32(Console.ReadLine());
+int sum = number1 / number2;
 if (number1 % number2 == 0)
 {
-    System.Console.WriteLine("Кратно");
+    System.Console.WriteLine($"Кратно: {sum} остаток:{ number1 % number2}");
 }
 else
 {
-    System.Console.WriteLine($"Не кратно, остаток: { number1 % number2}");
+    System.Console.WriteLine($"Не кратно: целое {sum} остаток:{ number1 % number2}");
 }
