@@ -5,36 +5,40 @@
 // 1 -> нет
 
 System.Console.Write("Введите число дня недели: ");
-int number = Convert.ToInt32(Console.ReadLine());
-if (number == 1 )
+int day = Convert.ToInt32(Console.ReadLine());
+
+switch (day)
 {
-    System.Console.WriteLine("weekday");
-}
-else if (number == 2)
-{
-    System.Console.WriteLine("weekday");
-}
-else if (number == 3)
-{
-    System.Console.WriteLine("weekday");
-}
-else if (number == 4)
-{
-    System.Console.WriteLine("weekday");
-}
-else if (number == 5)
-{
-    System.Console.WriteLine("weekday");
-}
-else if (number == 6)
-{
-    System.Console.WriteLine("WEEKEND");
-}
-else if (number == 7)
-{
-    System.Console.WriteLine("WEEKEND");
-}
-else
-{
-    System.Console.WriteLine("Error, there is no such day!");
+    case 1:{
+        System.Console.WriteLine("weekday");
+        break; 
+    }
+    case 2:{
+        System.Console.WriteLine("weekday");
+        break;
+    }
+    case 3:{
+        System.Console.WriteLine("weekday");
+        break;
+    }
+    case 4 :{
+        System.Console.WriteLine("weekday");
+        break;
+    }
+    case 5:{
+        System.Console.WriteLine("weekday");
+        break;
+    }
+    case 6:{
+        System.Console.WriteLine("WEEKEND");
+        break;
+    }
+    case 7:{
+        System.Console.WriteLine("WEEKEND");
+        break;
+    }
+    default:{
+        System.Console.WriteLine("Error, there is no such day!");
+        break;
+    }
 }
