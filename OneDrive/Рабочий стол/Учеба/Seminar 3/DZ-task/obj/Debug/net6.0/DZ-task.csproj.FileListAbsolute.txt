@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\bin\Debug\net6.0\DZ-task.exe
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\bin\Debug\net6.0\DZ-task.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\bin\Debug\net6.0\DZ-task.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\bin\Debug\net6.0\DZ-task.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\bin\Debug\net6.0\DZ-task.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\refint\DZ-task.dll
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\DZ-task.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\Учеба\Seminar 3\DZ-task\obj\Debug\net6.0\ref\DZ-task.dll
