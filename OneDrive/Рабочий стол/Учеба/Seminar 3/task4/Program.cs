@@ -5,7 +5,7 @@
 // 2 -> 1,4
 
 System.Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+int num = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 for (int i = 1; i <=num; i++)
 {
     System.Console.Write(Math.Pow(i,2) + " ");
